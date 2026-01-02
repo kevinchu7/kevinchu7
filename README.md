@@ -7,6 +7,7 @@
 ###
 
 <p align="left">👨‍💻Java Developer | ⚡️Pokémon Trainer</p>
+<p align="left">👉🏻<a href="https://blog.kevinchu.top/" target="_blank">BLOG</a></p>
 
 ###
 
