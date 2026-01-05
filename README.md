@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chelsea+Market&size=24&pause=1000&color=E4A0F3FD&vCenter=true&width=455&lines=Repetition+is+the+mother+of+learning." alt="Typing SVG" /></a></p>
 
 ###
 
